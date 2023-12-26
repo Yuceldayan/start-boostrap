@@ -1,0 +1,132 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.kutu1 {
+    background-color: #2C3E50;
+    font-weight: 700px;
+    padding-top: 2rem;
+    padding-bottom: 2.2rem;
+}
+
+.kutu1 a {
+    text-decoration: none;
+    color: #ffff;
+    font-weight: 700px;
+}
+
+.kutu1-2 a:hover {
+    color: #1abc9c;
+}
+
+
+.kutu2 {
+    background-color: #1abc9c;
+    width: 100%;
+    height: 720px;
+    text-align: center;
+    padding-top: 215px;
+}
+
+.img1 {
+    width: 240px;
+    height: 254px;
+    margin-bottom: 1rem;
+}
+
+.yazi1 {
+    font-size: 4rem;
+    color: white;
+}
+
+.yazi1 p {
+    font-size: 1.5rem;
+    padding-bottom: 0.2rem;
+}
+
+#container {
+    background-color: #ffff;
+    width: 100%;
+    height: 800px;
+    margin-top: 13rem;
+}
+
+img {
+    width: 380px;
+    height: 280px;
+    margin-bottom: 4rem;
+}
+
+#container h1 {
+    font-size: 3rem;
+    color: #2C3E50;
+}
+
+#kutu3 {
+    width: 100%;
+    height: 500px;
+    background-color: #1abc9c;
+    color: #ffff;
+}
+
+.birincicol {
+    padding-top: 4rem;
+    font-size: 3rem;
+    padding-right: 2.8rem;
+}
+
+.ikincicol {
+    text-align: justify;
+    padding-left: 16rem;
+    padding-right: 16rem;
+    padding-top: 2rem;
+    font-size: 20px;
+}
+
+.ucuncucol {
+    padding-top: 5rem;
+    font-size: 1.5rem;
+}
+
+.ucuncucol a {
+    border-radius: 2px;
+    font-size: 1.5rem;
+    color: #ffff;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 1.5rem;
+    border-radius: 1rem;
+}
+
+.ucuncucol a:hover {
+    color: black;
+    background-color: #ffff;
+}
+
+.son2 {
+    background-color: #2C3E50;
+    width: 100%;
+    height: 290px;
+    color: #ffff;
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.aetiketi a {
+    color: #1abc9c;
+}
+
+.aetiketi a:hover {
+    color: #0bcea7;
+}
+
+.footter {
+    background-color: #1A252F;
+    width: 100%;
+    height: 73px;
+    color: #ffff;
+    text-align: center;
+    padding-top: 24px;
+}
